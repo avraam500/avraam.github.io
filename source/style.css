@@ -1,0 +1,125 @@
+body{
+    font-family: 'Times New Roman', Times, serif, serif;
+    background: #d3cdb5;
+}
+
+/*навигационная панель*/
+.navbar-expand-lg {
+    background-color: rgb(201, 136, 57);
+}
+
+.nov{
+    font-size: 26px;
+}
+
+
+/*картинка */
+
+.mid {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*конец*/
+
+/*настройка отсупа карт*/
+.card{
+    margin-top: 3%;
+}
+
+/*отображение в телефоне*/
+
+@media (max-width: 755px){
+    .mid{
+        height: 45%;
+        width: 65%;
+    }
+}
+
+/*стиль ссылок*/
+.web{
+    text-decoration: none;
+    color: black;
+}
+
+/*работа с подвалом*/
+footer{
+    background-color: rgb(201, 136, 57);
+}
+
+p>a{
+    text-decoration: none;
+    color: black;
+}
+
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*работа над картами товара*/
+.card-title{
+    font-size: 26px;
+}
+
+.card-text{
+    font-size: 22px;
+}
+
+#myxa{
+    margin-bottom: 25%;
+}
+
+#lux{
+    margin-bottom: 6%;
+}
+
+/*sidebar*/
+.side-b{
+    font-size: 150%;
+    margin-left: 10em;
+    text-decoration: none;
+    color: black;
+}
+
+.border{
+    background-color: white;
+    margin-bottom: 4%;
+}
+
+#top{
+    margin-top: 2.4%;
+}
+
+
+/*контакты*/
+
+.lev{
+    text-align: center;
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
+
+.prav{
+    margin: 2%;
+}
+
+section{
+    margin-bottom: 15%;
+}
+
+
+/*company*/
+.com{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+
+/*работа на сайдбаром*/
+    /*kit*/
+    #lox{
+        margin-bottom: 16%;
+    }
