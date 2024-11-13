@@ -6,7 +6,7 @@ $echo = "Тут скоро что-то будет";
 <html>
 <head>
 <title>AДминкa</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="source/style.css">
 </head>
 <body>
 <div class="wrapper">
