@@ -9,6 +9,7 @@ $echo = "Тут скоро что-то будет";
 <link rel="stylesheet" href="source/style.css">
 </head>
 <body>
+  <p>АЛЛЛЛЛЛЛЛЛЛО</p>
 <div class="wrapper">
 <main class="main" id="main">
 <?echo $echo; ?>
