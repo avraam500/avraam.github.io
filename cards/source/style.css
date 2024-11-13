@@ -1,0 +1,65 @@
+body{
+    font-family: 'Times New Roman', Times, serif, serif;
+    background: #d3cdb5;
+}
+
+/*навигационная панель*/
+.navbar-expand-lg {
+    background-color: rgb(201, 136, 57);
+}
+
+/*картинка */
+
+.mid {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*конец*/
+
+/*настройка отсупа карт*/
+.card{
+    margin-top: 3%;
+}
+
+/*отображение в телефоне*/
+
+@media (max-width: 755px){
+    .mid{
+        height: 45%;
+        width: 65%;
+    }
+}
+
+/*стиль ссылок*/
+.web{
+    text-decoration: none;
+    color: black;
+}
+
+/*работа с подвалом*/
+footer{
+    background-color: rgb(201, 136, 57);
+}
+
+p>a{
+    text-decoration: none;
+    color: black;
+}
+
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*работа над картами товара*/
+.card-title{
+    font-size: 26px;
+    font-style: oblique;
+}
+
+.card-text{
+    font-size: 22px;
+}
